@@ -4,4 +4,4 @@
 Thanks for rocking with us!
 
 Sincerely,
-**Rock Your iPhone*
+**Rock Your iPhone**
