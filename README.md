@@ -1,4 +1,4 @@
-# RockApp 3.0 (Internal Beta)
+## RockApp 3.0 (Internal Beta)
 ### Thanks for rocking with us!
 
 ### Confidential and Proprietary
