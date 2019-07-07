@@ -1,6 +1,6 @@
 ## Credits
 
-**Original Rock Your Phone Founder**
+**Original Rock Your Phone Founder** \n
 [Mario Ciabarra](https://twitter.com/mariociabarra/)
 
 Sincerely,
