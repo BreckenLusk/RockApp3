@@ -1,10 +1,10 @@
 ## Credits
 
 **Original Rock Your Phone Founder (Rock 1 & 2)** - [Mario Ciabarra](https://twitter.com/mariociabarra/)  
-As far as we know, Mario Ciabarra was the only developer of Rock 1 and 2. He worked in Monument, Colorado.  
+As far as we know, Mario Ciabarra, the founder of Rock Your Phone, was the only developer of Rock 1 and 2. He worked out of an office located in Monument, Colorado. He maintained the website, the mobile app, and the desktop client.  
   
 **Rock Your iPhone Founder (Rock 3)** - [Brecken Lusk](https://twitter.com/BreckenLusk/)  
-Brecken Lusk, the founder of Rock Your iPhone is actively developing Rock 3 at his home in Columbine, Colorado.  
+Brecken Lusk, the founder of Rock Your iPhone, is actively designing and developing the UI for Rock 3 at his home in Columbine, Colorado. He is also overseeing the rest of Rock 3's development.  
   
 **Web Developer (Rock 3)** - [Sem Voigtländer (userlandkernel)](https://twitter.com/userlandkernel)  
 Sem Voigtländer is one of the best, if not the best, developer on the team. He is currently the currently working on developing the Rock Your iPhone website.
