@@ -12,7 +12,4 @@ Sem Voigtländer is one of the best, if not the best, developer on the team. He 
 **Backend & PHP Developer (Rock 3)** - [Parsa Yazdani (Quix)](https://twitter.com/QuixThe2nd/)  
 Parsa Yazdani is the backend and PHP developer for Rock Your iPhone. He is responsible for handling the Developer Portal for the Rock Central repository and other server-sided things.  
   
-We would like to say *thank you* to all of our current developers and anyone else who have made the revival of Rock possible. We are so grateful to have your help and we will never forget about all of the amazing people that have worked on this project.  
-  
-Sincerely,
-**Rock Your iPhone**
+We would like to say *thank you* to all of our current developers and anyone else who have made the revival of Rock possible. We are so grateful to have your help and we will never forget about all of the amazing people that have worked on this project.
